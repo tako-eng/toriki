@@ -1,26 +1,23 @@
 #coding: UTF-8
 from urllib import request
+from urllib import error
 from bs4 import BeautifulSoup
 from logging import getLogger
 import re
 import contextlib
-from src.model.excel_writer import ExcelWriter
-from src.tk_logger import initialize_logger
-from src.model.toriki_menu import TorikiMenu
+from model.excel_writer import ExcelWriter
+from tk_logger import initialize_logger
+from model.toriki_menu import TorikiMenu
 logger = getLogger(__name__)
 
 base_url = "https://www.torikizoku.co.jp/"
 file_name = "../menu.xlsx"
 
-def root_scraping():
-    #url
-    url = base_url + "menu/"
 
-    #get html
+def root_scraping():
+    url = base_url + 'menu/'
     html = request.urlopen(url)
-    #set BueatifulSoup
     soup = BeautifulSoup(html, "html.parser")
-    #get menuItems
     main_menu_box = soup.find("div", attrs={"class","img2col clearfix"})
     menu_list = main_menu_box.find_all("a", href=re.compile("/menu/+"))
 
@@ -32,7 +29,8 @@ def root_scraping():
     for url in target_urls:
         category = url.split("/")[2]
         items = get_menu_from_one_category(url)
-        menu_buffer = [];
+        menu_buffer = []
+
         for i in range(len(items)):
             toriki_menu = TorikiMenu(
                 id=id,
@@ -61,6 +59,7 @@ def get_menu_from_one_category(path="/"):
 
     target_url = base_url + path
     html = request.urlopen(target_url)
+
     soup = BeautifulSoup(html, "html.parser")
     main_menu = soup.find("div", attrs={"class",re.compile("mlBox clearfix.?")})
     if not main_menu:
