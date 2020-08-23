@@ -1,0 +1,589 @@
+{
+    "id": 1,
+    "category": "kikan",
+    "name": "(インドネシア)サテ",
+    "price": "280",
+    "description": "インドネシアの焼鳥。"
+},{
+    "id": 2,
+    "category": "kikan",
+    "name": "(韓国)タッコチ",
+    "price": "280",
+    "description": "韓国の甘辛屋台料理。"
+},{
+    "id": 3,
+    "category": "kikan",
+    "name": "(ドイツ)カリーヴルスト",
+    "price": "280",
+    "description": "お酒がすすむスパイシー。"
+},{
+    "id": 4,
+    "category": "kikan",
+    "name": "(中国)揚げワンタン",
+    "price": "280",
+    "description": "カリッと揚げたて！"
+},{
+    "id": 5,
+    "category": "kikan",
+    "name": "(アメリカ)スパイシーフライドチキン",
+    "price": "280",
+    "description": "ヤミツキになる辛さ。"
+},{
+    "id": 6,
+    "category": "kikan",
+    "name": "(日本)鯛出汁冷やし麺",
+    "price": "280",
+    "description": "上品な鯛出汁冷やし麺。"
+},{
+    "id": 7,
+    "category": "kongetsu",
+    "name": "白姫えび®串焼",
+    "price": "280",
+    "description": "磯の香りと海老の甘みは焼いても揚げても丸ごと美味い！"
+},{
+    "id": 8,
+    "category": "kongetsu",
+    "name": "白姫えび®串揚",
+    "price": "280",
+    "description": "パリパリの殻には濃厚な旨みが凝縮！香ばしさと食感を楽しむ串揚。"
+},{
+    "id": 9,
+    "category": "yakitori",
+    "name": "もも貴族焼（たれ）",
+    "price": "280",
+    "description": "鳥貴族の代名詞、名物貴族焼!!もも肉とネギとの絶妙なハーモニーをご賞味あれ！"
+},{
+    "id": 10,
+    "category": "yakitori",
+    "name": "もも貴族焼（塩）",
+    "price": "280",
+    "description": "焼鳥通は塩で食す。もも肉の味わいを塩が引き締め甘いネギが肉の旨みと見事にマッチ。"
+},{
+    "id": 11,
+    "category": "yakitori",
+    "name": "もも貴族焼（スパイス）",
+    "price": "280",
+    "description": "スパイス、ハーブが舌を刺激し、味覚を立体化！もも肉の味を際だたせるスパイシーな逸品。"
+},{
+    "id": 12,
+    "category": "yakitori",
+    "name": "むね貴族焼（たれ）",
+    "price": "280",
+    "description": "むね肉ブーム到来!?とろみあるネギとたれが低脂肪のむね肉の旨みを引き出し絶品に。"
+},{
+    "id": 13,
+    "category": "yakitori",
+    "name": "むね貴族焼（塩）",
+    "price": "280",
+    "description": "むね肉のさっぱりとした旨みを、塩が引きたてる。甘み立つネギとのマッチングを楽しんで。"
+},{
+    "id": 14,
+    "category": "yakitori",
+    "name": "むね貴族焼（スパイス）",
+    "price": "280",
+    "description": "むね肉をスパイシーに楽しみたいならコレ。キリッとした刺激が舌から鼻を抜け、後味爽やか。"
+},{
+    "id": 15,
+    "category": "yakitori",
+    "name": "ちからこぶ塩",
+    "price": "280",
+    "description": "清涼感のある柚子胡椒がジューシーな旨みを引き出す絶品焼き！"
+},{
+    "id": 16,
+    "category": "yakitori",
+    "name": "三角（ぼんじり）",
+    "price": "280",
+    "description": "鶏肉でもっとも脂の乗っている部位がこの“三角”。口に広がるコクと旨みの二重奏。"
+},{
+    "id": 17,
+    "category": "yakitori",
+    "name": "手羽先",
+    "price": "280",
+    "description": "コラーゲンが豊富で、弾力性ある歯応えも楽しい。お店の中で野趣に親しむ。肉汁の旨みを堪能しよう。（※1）"
+},{
+    "id": 18,
+    "category": "yakitori",
+    "name": "つくね塩",
+    "price": "280",
+    "description": "豊かな風味を持ったつくねを塩でシンプルに。大葉の香りが食欲を刺激する。"
+},{
+    "id": 19,
+    "category": "yakitori",
+    "name": "ささみ",
+    "price": "280",
+    "description": "高タンパクながら、すっきりとした風味。やわらかで淡白な味は、身体にも優しい。"
+},{
+    "id": 20,
+    "category": "yakitori",
+    "name": "ハート塩 -ガーリック入-",
+    "price": "280",
+    "description": "弾力のある歯ごたえと口中に広がるガーリックの香ばしさ。ひと味違う感覚を楽しもう。"
+},{
+    "id": 21,
+    "category": "yakitori",
+    "name": "砂ずり（砂肝）",
+    "price": "280",
+    "description": "食感が楽しい!!オリジナルブレンドの塩が、コリコリと噛む心地よさを引き立てる。"
+},{
+    "id": 22,
+    "category": "yakitori",
+    "name": "かわ塩",
+    "price": "280",
+    "description": "かわのなかでも旨みが多いといわれる首かわだけを使用。塩が引き出す油の旨みを堪能。"
+},{
+    "id": 23,
+    "category": "yakitori",
+    "name": "やげんなんこつ",
+    "price": "280",
+    "description": "独特の食感がクセになる！胸骨の先にあるなんこつ。コリコリと味わえば、思わず笑顔に。"
+},{
+    "id": 24,
+    "category": "yakitori",
+    "name": "ひざなんこつ",
+    "price": "280",
+    "description": "旨みを引き出す絶妙の塩加減！ひざなんこつは脂肪分控えめでヘルシー。存分にコリコリ食感を楽しもう！"
+},{
+    "id": 25,
+    "category": "yakitori",
+    "name": "せせり -ガーリック入-",
+    "price": "280",
+    "description": "噛めば噛むほど肉汁の広がる奥の深い味わい。ガーリックの香りでつい食べ過ぎてしまいそう。"
+},{
+    "id": 26,
+    "category": "yakitori",
+    "name": "ちからこぶたれ",
+    "price": "280",
+    "description": "ジューシーで甘みのあるたれに、辛味噌のアクセントが好印象！"
+},{
+    "id": 27,
+    "category": "yakitori",
+    "name": "みたれ（もも肉）",
+    "price": "280",
+    "description": "迷ったときはやっぱこれでしょ！肉の魅力を引き出すたれが、旨みをふっくらと包み込む。"
+},{
+    "id": 28,
+    "category": "yakitori",
+    "name": "きも（レバー）",
+    "price": "280",
+    "description": "濃厚で、クリーミーな味わい。店内の串打ちだから臭みなし。口中に広がる豊かな後味も魅力。"
+},{
+    "id": 29,
+    "category": "yakitori",
+    "name": "つくねチーズ焼",
+    "price": "280",
+    "description": "女性に大人気!!チーズが肉汁を包み込み、大葉がアクセントに。たれとチーズの相性も抜群！"
+},{
+    "id": 30,
+    "category": "yakitori",
+    "name": "つくねたれ",
+    "price": "280",
+    "description": "たれは芳醇でコクのある味わい。噛むほどに広がる肉の旨みをご堪能あれ。"
+},{
+    "id": 31,
+    "category": "yakitori",
+    "name": "かわたれ",
+    "price": "280",
+    "description": "余分な脂肪は下処理でカット。オリジナルのたれと合わせて、油の旨み分だけを味わう。"
+},{
+    "id": 32,
+    "category": "yakitori",
+    "name": "ハートたれ",
+    "price": "280",
+    "description": "ぷりっとした食感に複雑な味を隠しているのがハート。香ばしいたれが食欲を刺激する。"
+},{
+    "id": 33,
+    "category": "yakitori",
+    "name": "骨付まつばのスパイス焼【希少部位】",
+    "price": "280",
+    "description": "鶏の胸骨は形状が松の葉に似ている事から「松葉」と呼ばれます。希少な部位で弾力のあるしっかりとした歯ごたえが魅力。（※1）"
+},{
+    "id": 34,
+    "category": "yakitori",
+    "name": "ピーマン肉詰 -ポン酢味-",
+    "price": "280",
+    "description": "肉汁が自慢のつくねを、ピーマンとマッチング。食わず嫌いの解消にも。"
+},{
+    "id": 35,
+    "category": "yakitori",
+    "name": "ささみわさび焼",
+    "price": "280",
+    "description": "淡泊なささみをぴりっと鼻に抜けていくわさびで。ごま油風味とマッチしてお酒がすすむ。"
+},{
+    "id": 36,
+    "category": "yakitori",
+    "name": "むね肉明太マヨネーズ風焼",
+    "price": "280",
+    "description": "明太には国産の魚卵を使用。あっさりとしたむね肉を海の風味で濃厚に。"
+},{
+    "id": 37,
+    "category": "yakitori",
+    "name": "もちもちチーズ焼",
+    "price": "280",
+    "description": "鳥貴族のたれは、もちにもよく合うんです。チーズでしっかりとした味に整えました。"
+},{
+    "id": 38,
+    "category": "yakitori",
+    "name": "牛串焼 -果実とにんにくの旨味-",
+    "price": "280",
+    "description": "スパイスの効いた牛肉に、フルーツの甘みとガーリックのコクをプラス。味わうほどに楽しめる※牛脂等、注入加工肉"
+},{
+    "id": 39,
+    "category": "yakitori",
+    "name": "豚バラ串焼",
+    "price": "280",
+    "description": "豚バラは脂の旨味で選びたい。オリジナルの香辛料がほどよく旨味を引き立たせます。"
+},{
+    "id": 40,
+    "category": "ippin",
+    "name": "トリキの唐揚",
+    "price": "280",
+    "description": "とりあえず唐揚!!淡路島産玉ねぎ使用の特製パウダーに漬け込み、サクサク、ジューシーな味に仕上げました。"
+},{
+    "id": 41,
+    "category": "ippin",
+    "name": "ポテトフライ",
+    "price": "280",
+    "description": "自然な甘味の国産じゃがいも使用。歯ざわりはほっこり、なめらか。バターソースやケチャップでどうぞ。"
+},{
+    "id": 42,
+    "category": "ippin",
+    "name": "とり天 -梅肉ソース添え-",
+    "price": "280",
+    "description": "熱々のとり天に梅肉ソースを添えてどうぞ。ほのかな酸味としその香りが食欲を刺激。"
+},{
+    "id": 43,
+    "category": "ippin",
+    "name": "北海道産和風ポテトさらだ【北海道産馬鈴薯(さやか)使用！】",
+    "price": "280",
+    "description": "北海道産のじゃがいもにオニオンスライス、かつお節を乗せて和風に仕上げました。"
+},{
+    "id": 44,
+    "category": "ippin",
+    "name": "口水鶏",
+    "price": "280",
+    "description": "香辛料を効かせた中華ソースが食欲を誘うよだれもんの逸品。"
+},{
+    "id": 45,
+    "category": "ippin",
+    "name": "粗挽ポークソーセージ串焼",
+    "price": "280",
+    "description": "国産のポークを使用。しゃきっと噛めば、肉の旨味がしっかり、ジューシー。"
+},{
+    "id": 46,
+    "category": "ippin",
+    "name": "チキン南蛮",
+    "price": "280",
+    "description": "揚げたてのカリッとして香ばしい食感と、モモ肉のやわらかでジューシーな食感。"
+},{
+    "id": 47,
+    "category": "ippin",
+    "name": "カマンベールコロッケ",
+    "price": "280",
+    "description": "人気の秘密はもちトロ食感！カマンベール、クリーム、チェダーチーズをミックス、豊かな風味がやみつきに。"
+},{
+    "id": 48,
+    "category": "ippin",
+    "name": "ひざなんこつ唐揚",
+    "price": "280",
+    "description": "ビールのつまみに◎。サクサク、コリコリと噛むほどにうま味が味わえる。この塩味がたまらない。"
+},{
+    "id": 49,
+    "category": "ippin",
+    "name": "ふんわり山芋の鉄板焼",
+    "price": "280",
+    "description": "口の中で柔らかく溶ける山芋と、こくを感じるだしのハーモニー。濃厚な山芋の味が楽しめます。"
+},{
+    "id": 50,
+    "category": "sarada",
+    "name": "超！白ねぎ塩こんぶ",
+    "price": "280",
+    "description": "焼鳥にも、ご飯ものにも合う一品。白ねぎの食感と塩こんぶ、純正胡麻油の風味も相まって、箸がとまらない。"
+},{
+    "id": 51,
+    "category": "sarada",
+    "name": "ホルモンねぎ盛ポン酢【数量限定】",
+    "price": "280",
+    "description": "噛めば納得、ホルモンの旨み。砂肝のこりこり食感の銀かわ。ハツは甘く、バラエティ豊か。"
+},{
+    "id": 52,
+    "category": "sarada",
+    "name": "枝豆",
+    "price": "280",
+    "description": "ビールのおつまみの大定番。甘み引き立つうす塩味に仕上げました。"
+},{
+    "id": 53,
+    "category": "sarada",
+    "name": "国産大豆の冷やっこ",
+    "price": "280",
+    "description": "国産大豆と天然にがりを使用した「生搾り製法」。昔ながらの豆腐をだし醤油で。"
+},{
+    "id": 54,
+    "category": "sarada",
+    "name": "チャンジャ",
+    "price": "280",
+    "description": "こりこりした食感、噛んでいくうちにわき上がる辛さと旨味。ビールがすすむこと間違いなし。"
+},{
+    "id": 55,
+    "category": "sarada",
+    "name": "親鶏炙り焼 -塩ポン酢味-",
+    "price": "280",
+    "description": "強い旨味と弾力ある親鶏を使用。香ばしく炙り上げ、オニオンスライスと塩ポン酢、青ネギで仕上げました。"
+},{
+    "id": 56,
+    "category": "sarada",
+    "name": "キャベツ盛【おかわり無料】",
+    "price": "280",
+    "description": "シャキシャキ国産キャベツを醤油ベースのあっさりだれで仕上げました。こってりとした焼鳥と相性抜群おかわりは無料！"
+},{
+    "id": 57,
+    "category": "sarada",
+    "name": "ピリ辛キューリ漬",
+    "price": "280",
+    "description": "ついつい手が出るピリ辛キューリ。ほどよい酸味のパリパリきゅうり。ピリ辛たれをマッチング。"
+},{
+    "id": 58,
+    "category": "sarada",
+    "name": "味付煮玉子",
+    "price": "280",
+    "description": "料亭風のだしをしみこませ、上品に仕上げた玉子好きも大納得の一品。とろーり半熟の黄身が絶品です。"
+},{
+    "id": 59,
+    "category": "sarada",
+    "name": "冷やしトマト【春夏限定】",
+    "price": "280",
+    "description": "爽やかで瑞々しいトマト。お酒のあてにも箸休めにも最適です。"
+},{
+    "id": 60,
+    "category": "gohan",
+    "name": "とり釜飯",
+    "price": "280",
+    "description": "自慢の鶏ガラスープでお米を炊きあげました。一粒一粒にしみこんだ鶏のうま味をご堪能ください。（※1）"
+},{
+    "id": 61,
+    "category": "gohan",
+    "name": "とり白湯めん",
+    "price": "280",
+    "description": "麺はもちもち、スープはとろっとして濃厚な味わい。鶏の旨みを味わえる締めの一品です。"
+},{
+    "id": 62,
+    "category": "gohan",
+    "name": "とり雑炊",
+    "price": "280",
+    "description": "〆の定番が復活！厳選の鶏ガラスープをベースに、あっさりとした仕上がり。旨味たっぷりの雑炊でご馳走様！"
+},{
+    "id": 63,
+    "category": "gohan",
+    "name": "焼とり丼",
+    "price": "280",
+    "description": "鳥貴族のたれは、実はご飯にもよく合うんです！もも肉とご飯とたれのハーモニーをご賞味ください。"
+},{
+    "id": 64,
+    "category": "gohan",
+    "name": "白ごはん(味噌汁付)",
+    "price": "280",
+    "description": "熱々の白ご飯とお味噌汁のセットはじめました。"
+},{
+    "id": 65,
+    "category": "gohan",
+    "name": "チョコパフェ -チュロ添え-",
+    "price": "280",
+    "description": "ディップで2度おいしい♪パフェとチュロを味わい尽くす絶品スイーツ。"
+},{
+    "id": 66,
+    "category": "gohan",
+    "name": "京都宇治抹茶アイス",
+    "price": "280",
+    "description": "宇治抹茶の洗練された苦味と粒餡の甘味が楽しめる贅沢な和スイーツ。"
+},{
+    "id": 67,
+    "category": "gohan",
+    "name": "カタラーナアイス",
+    "price": "280",
+    "description": "濃厚で濃密なカスタードクリームをただただ楽しむ、至福のアイス"
+},{
+    "id": 68,
+    "category": "gohan",
+    "name": "黒蜜抹茶きな粉アイス",
+    "price": "280",
+    "description": "天然うぐいす粉に宇治抹茶をブレンドしたアイス。濃厚な黒蜜が美味。"
+},{
+    "id": 69,
+    "category": "gohan",
+    "name": "カシスシャーベット",
+    "price": "280",
+    "description": "濃厚な風味と甘酸っぱいカシスの果汁感を思う存分贅沢に♪"
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},{
+    "id": null,
+    "category": null,
+    "name": null,
+    "price": null,
+    "description": null
+},
